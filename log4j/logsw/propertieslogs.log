@@ -1,0 +1,4 @@
+[INFO ] 2020-08-31 03:43:57.666 [main] MainBaseClass - This is information message 
+[WARN ] 2020-08-31 03:43:57.669 [main] MainBaseClass - This is information message 
+[ERROR] 2020-08-31 03:43:57.669 [main] MainBaseClass - This is error message
+[FATAL] 2020-08-31 03:43:57.669 [main] MainBaseClass - This is fatal message
