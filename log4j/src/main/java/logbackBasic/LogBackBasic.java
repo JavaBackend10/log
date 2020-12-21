@@ -8,6 +8,6 @@ class LogBackBasic {
 	private static final Logger logger = LoggerFactory.getLogger(LogBackBasic.class);
 
 	public static void main(String[] args) {
-		logger.info("Example log from {}", LogBackBasic.class.getSimpleName());
+		logger.error("Example log from {}", LogBackBasic.class.getSimpleName());
 	}
 }
